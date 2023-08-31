@@ -89,7 +89,7 @@ ArbolesMontecarlo <- function(semillas, param_basicos) {
 #------------------------------------------------------------------------------
 
 # Aqui se debe poner la carpeta de la computadora local
-setwd("~/buckets/b1/") # Establezco el Working Directory
+setwd("X:\\gdrive\\ITBA2023dmbcB\\") # Establezco el Working Directory
 # cargo los datos
 
 # cargo los datos
