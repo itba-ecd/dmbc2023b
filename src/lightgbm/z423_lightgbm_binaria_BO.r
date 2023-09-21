@@ -42,8 +42,8 @@ PARAM$trainingstrategy$semilla_azar <- 102191 # Aqui poner su  primer  semilla
 
 PARAM$hyperparametertuning$iteraciones <- 100
 PARAM$hyperparametertuning$xval_folds <- 5
-PARAM$hyperparametertuning$POS_ganancia <- 117000
-PARAM$hyperparametertuning$NEG_ganancia <- -3000
+PARAM$hyperparametertuning$POS_ganancia <- 273000
+PARAM$hyperparametertuning$NEG_ganancia <- -7000
 
 # Aqui poner su segunda semilla
 PARAM$hyperparametertuning$semilla_azar <- 200177
